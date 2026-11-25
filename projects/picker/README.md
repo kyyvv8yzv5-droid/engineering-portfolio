@@ -91,3 +91,7 @@ Provider extraction sends normalized image content to the configured service. He
 ## AI-assisted development
 
 Development and preparation of this portfolio included AI assistance. The code is transcribed from verified commits. Individual implementation authorship is not asserted.
+
+## Expanded source review
+
+[Full module collection](source/README.md) · [Pinned engineering metrics](../../METRICS.md)

@@ -1,0 +1,6 @@
+from typing import Protocol
+
+
+class PickerStorageAdapter(Protocol):
+    def save_source(self, reference: str, content: bytes) -> str: ...
+    def save_crop(self, reference: str, content: bytes) -> str: ...

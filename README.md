@@ -24,3 +24,16 @@ From the repository root, run python -m http.server 8765 --bind 127.0.0.1 and op
 ## Scope and attribution
 
 All application repositories remain private. This portfolio uses selected excerpts rather than complete application source. Development and documentation included AI assistance. Individual implementation authorship is not asserted.
+
+## Engineering metrics and source collections
+
+[Metrics and method](METRICS.md) · [Website metrics](metrics.html)
+
+- [SLEEP modules](projects/sleep/source/README.md)
+- [AuthenticityAI modules](projects/authenticityai/source/README.md)
+- [Picker modules](projects/picker/source/README.md)
+- [Culinary IQ modules](projects/culinary-iq/source/README.md)
+
+This staged expansion requires an explicit source and rights review before publication. It does not grant an open-source license.
+
+[Verified synthetic checks](demos/README.md)
