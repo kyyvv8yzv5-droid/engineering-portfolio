@@ -5,3 +5,7 @@ This portfolio harness loads two unchanged application modules directly from the
 Requirements are Python 3.11 or later and Pillow. From the portfolio root, run python demos/run_synthetic_checks.py after installing Pillow. The checks use no network, API keys, databases, datasets, or model weights.
 
 The wider source collections include context-dependent modules. Passing these checks does not make those collections independently runnable.
+
+## AI-assisted development
+
+Designed and developed using AI-assisted software engineering tools, including ChatGPT and Codex.

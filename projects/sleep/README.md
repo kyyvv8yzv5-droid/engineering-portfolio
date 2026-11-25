@@ -60,7 +60,7 @@ Execution is paper-only. This walkthrough omits trading strategy, scoring rules,
 
 ## AI-assisted development
 
-Development and preparation of this portfolio included AI assistance. The code is transcribed from verified commits. Individual implementation authorship is not asserted.
+Designed and developed using AI-assisted software engineering tools, including ChatGPT and Codex.
 
 ## Expanded source review
 

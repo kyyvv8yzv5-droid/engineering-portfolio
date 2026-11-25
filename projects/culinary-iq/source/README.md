@@ -216,3 +216,6 @@ Exercise observable behavior with local test fixtures and assertions.
 
 **Testing and trade-off.** Application test evidence is documented on the case study. The module retains the original interfaces and imports, which preserve design context and limit standalone execution.
 
+## AI-assisted development
+
+Designed and developed using AI-assisted software engineering tools, including ChatGPT and Codex.
