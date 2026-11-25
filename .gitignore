@@ -1,0 +1,35 @@
+.DS_Store
+Thumbs.db
+.env*
+node_modules/
+preview-captures/
+
+# Local review materials
+phase6-review/
+*interview*guide*
+*publication-inventory*
+
+# Credentials, runtime data, and generated packages
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.mobileprovision
+credentials*.json
+secrets*.json
+*.sqlite*
+*.db
+*.db-*
+*.dump
+*.log
+*.zip
+*.whl
+__pycache__/
+.venv/
+.pytest_cache/
+build/
+dist/
+backups/
+data/
+uploads/
